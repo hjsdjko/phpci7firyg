@@ -1,0 +1,5 @@
+{
+    "require": {
+        "alibabacloud/imagerecog-20190930": "^2.0"
+    }
+}
